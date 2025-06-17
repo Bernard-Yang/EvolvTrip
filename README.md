@@ -129,7 +129,7 @@ If you find our work helpful, please cite our paper:
 @article{yang2025evolvtrip,
   title={EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs},
   author={Yang, Bohao and Xu, Hainiu and Du, Jinhua and Li, Ze and He, Yulan and Lin, Chenghua},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2506.13641},
   year={2025}
 }
 ```
