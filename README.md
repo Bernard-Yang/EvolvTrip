@@ -1,6 +1,13 @@
 
 
 # EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs
+<p align="center">
+
+<p>
+
+<p align="center">
+       📑 <a href="https://arxiv.org/abs/2506.13641">Paper</a> &nbsp&nbsp   <a href="https://huggingface.co/datasets/yangbh217/EvolvTrip">Huggingface</a>  </a>  
+</p>
 
 This repository contains the dataset, code, and resources for the paper **"EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs"**.
 
